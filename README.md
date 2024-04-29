@@ -1,0 +1,2 @@
+# API and ElastiscSearch mini project
+ In this project i use the CoinMarketCap API to get the value of BTC and ETH on every hour of 5 days, write this information in a JSON file, and in the end i use the ElastiscSearch to do some research on the data i have created, i use the system of logging to get all the updates of the script in every hour, making easy to know what is the Error and to see if the script is running normal.
